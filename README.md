@@ -38,24 +38,24 @@ GitHub (Documentation repository)
 📷 Media (Images & Video)
 📸 Screenshots:
 
-Hyper-V VM Setup
+Hyper-V VM Setup:https://youtu.be/3I64TeJ4iNI?si=o5m2fea6Z8JfH8kt
 
 
-Active Directory Configuration
+Active Directory Configuration: https://www.atlantic.net/wp-content/uploads/2024/03/p2-9.png
 
 
-osTicket Installation Page
+osTicket Installation Page:https://th.bing.com/th/id/R.a3de7ea8f2e21cf5d6906a9cdfb8b955?rik=dUrIPKqIuVULKw&riu=http%3a%2f%2fwww.captools.net%2fctnet%2fhelp%2fiis_configuration01.png&ehk=X6rxD%2b40k1n56k9bKDJAmWBKAbDubOIpKSXzQBYll0U%3d&risl=&pid=ImgRaw&r=0
 
 
-Ticket Creation from Client
+Ticket Creation from Client:https://youtu.be/O8VFynTFDII?si=Fb1oMA8tTZKLczUH
 
 
-Admin Panel Showing Submitted Ticket
+Admin Panel Showing Submitted Ticket:https://youtu.be/5NMcM4zJPM4?si=x1OT30IlfKUy3ToU
 
 
  All images are located in the /media folder for clarity and organization.
 
-🎥 Video Walkthrough :
+🎥 Video Walkthrough :https://youtu.be/IHcMBVq40iE?si=Yxna17e96R7ePkDx
 
 📺 Watch Full Demo on YouTube
 
