@@ -5,13 +5,13 @@ This project is a tutorial walkthrough demonstrating the full deployment and con
 
 It replicates a small enterprise environment, showcasing key IT skills including domain controller setup, user/group management, LAMP stack deployment, and internal web access from client machines.
 
-🔹 Languages Used:
+ Languages Used:
 
 PowerShell (for automation and user account creation)
 
 Basic command line / Bash scripting (for Linux setup)
 
-🔹 Environments Used:
+ Environments Used:
 
 Windows Server 2019 (Domain Controller, DNS)
 
@@ -21,7 +21,7 @@ Ubuntu 20.04 (Web Server)
 
 Hyper-V (Virtualization)
 
-🔹 Technologies / Applications / Services:
+ Technologies / Applications / Services:
 
 osTicket (Support Ticket System)
 
@@ -35,8 +35,8 @@ Windows DNS Server
 
 GitHub (Documentation repository)
 
-📷 Media (Images & Video)
-📸 Screenshots:
+ Media (Images & Video)
+Screenshots:
 
 Hyper-V VM Setup:https://youtu.be/3I64TeJ4iNI?si=o5m2fea6Z8JfH8kt
 
@@ -59,11 +59,11 @@ Admin Panel Showing Submitted Ticket:https://youtu.be/5NMcM4zJPM4?si=x1OT30IlfKU
 
 📺 Watch Full Demo on YouTube
 
-🧪 Demonstration
+ Demonstration
 
 This section walks through each step of the project implementation in detail.
 
-✅ Step 1: Set Up the Domain Controller (Windows Server 2019)
+ Step 1: Set Up the Domain Controller (Windows Server 2019)
 
 Configure a static IP
 
@@ -75,7 +75,7 @@ Set up internal domain: corp.local
 
 Create test user accounts in Active Directory
 
-✅ Step 2: Set Up Ubuntu Web Server (Ubuntu 20.04)
+ Step 2: Set Up Ubuntu Web Server (Ubuntu 20.04)
 
 Install Ubuntu on Hyper-V VM
 
@@ -91,7 +91,7 @@ Restart services and configure firewall:
 sudo systemctl restart apache2
 sudo ufw allow 80
 
-✅ Step 3: Download and Install osTicket
+ Step 3: Download and Install osTicket
 
 Download osTicket from official site
 
@@ -101,7 +101,7 @@ Create MySQL database and user
 
 Run web-based setup at http://<ubuntu-ip>/upload
 
-✅ Step 4: Connect Windows 10 Client to the Domain
+Step 4: Connect Windows 10 Client to the Domain
 
 Join the client to the domain corp.local
 
@@ -111,7 +111,7 @@ Open browser and navigate to osTicket web server
 
 Create a new support ticket
 
-✅ Step 5: Ticket Handling
+ Step 5: Ticket Handling
 
 Admin logs into the osTicket dashboard
 
@@ -119,7 +119,7 @@ Views the ticket, assigns agent, replies
 
 Demonstrates full ticket lifecycle
 
-🏁 Conclusion
+ Conclusion
 
 This project demonstrates the following core IT skills:
 
